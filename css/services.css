@@ -1,0 +1,42 @@
+.services{
+	height: 600px;
+}
+.services h1{
+	font-weight: bold;
+	font-size: 36px;
+	line-height: 53px;
+	text-align: center;
+	margin-top: 110px;
+	margin-bottom: 50px;
+}
+.services p{
+	font-size: 16px;
+	line-height: 25px;
+	text-align: center;
+	
+}
+
+
+.block img{
+	height: 90px;
+	width: 90px;
+	margin-right: 30px;
+}
+.services_block{
+	display: flex;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 50px;
+}
+.block{
+	display: flex;
+}
+.block_text{
+	text-align: center;
+}
+.block_text h2{
+	font-weight: 600;
+	font-size: 18px;
+	line-height: 22px;
+
+}

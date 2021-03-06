@@ -1,0 +1,28 @@
+.our_projects{
+	height: 776px;
+	background: #F6F6F8;
+}
+.our_projects h2{
+	text-align: center;
+}
+.our_projects p{
+	text-align: center;
+	color: #999999;
+	margin-top: 50px;
+}
+.our_projects img{
+	height: 225px;
+	width: 225px;
+	margin-left: 30px;
+	margin-top: 70px;
+}
+.our_projects h2{
+	padding-top: 100px;
+}
+.project_img{
+	display: flex;
+	justify-content: center;
+}
+.our_projects, .button a{
+	text-align: center;
+}

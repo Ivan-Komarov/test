@@ -1,0 +1,68 @@
+.project_box1{
+	height: 200px;
+	background: linear-gradient(90deg, #504DC2 20.44%, #5F12D0 80.91%), #C4C4C4;
+}
+.box_content h2{
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	line-height: 53px;
+	color: #FFFFFF;
+	margin-right: 185px;
+}
+.box_content{ 
+	display: flex;
+	justify-content: center;
+	padding-top: 50px;
+ }
+ .box_content a{
+ 	margin-left: 185px;
+ }
+ .project_study{
+ 	width: 350px;
+ 	height: 544px;
+ 	margin-left: 30px; 	 	
+ }
+ .project_study_all{
+ 	margin-top: 70px;
+ 	display: flex;
+ 	justify-content: center;
+
+ }
+ #color{
+ 	color: #4985FF;
+ }
+ .project_study h3{
+ 	margin-top: 30px;
+ 	font-style: normal;
+	font-weight: 600;
+	font-size: 18px;
+	line-height: 22px;
+ }
+ .project_study p{
+	margin-top: 30px;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 25px;
+	color: #999999;
+	margin-bottom:  30px;
+ }
+ .project_study a{
+ 	border-bottom: 1px solid;
+ 	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 20px;
+	color: #4985FF;
+
+ }
+ .our_project {
+ 	height: 960px;
+ }
+ .liner{
+ 	margin-top: 85px;
+ 	margin-left: 20%;
+ 	margin-right: 20%;
+ 	border: 1px solid #E0E0E0;
+ }
